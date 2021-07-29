@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 29, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Planned a mind-map on what to code for the next 100 days.
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Revised the first 2 lessons in Intro to ML course in Kaggle.
+
+**Thoughts:** Preplanned and got a clear understanding for this challenge.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
