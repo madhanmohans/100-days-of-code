@@ -10,15 +10,15 @@
 
 **Thoughts:** Preplanned and got a clear understanding for this challenge.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: July 30, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Learned how to select data, prediction target, features to build a prediction model.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- Model validation learned and put into practice.
 
+**Thoughts**: Today it was hard but managed to spend learning some useful basics of ML.
 
 ### Day 1: June 27, Monday
 
