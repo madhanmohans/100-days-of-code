@@ -20,12 +20,9 @@
 
 **Thoughts**: Today it was hard but managed to spend learning some useful basics of ML.
 
-### Day 1: June 27, Monday
+### Day 2: July 31, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finished 75% of Basic HTML and HTML5 course in Responsive web design certification course in freeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: That was a bit easy to learn but I think these basics are essential for me to build momentum.
