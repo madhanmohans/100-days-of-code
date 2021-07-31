@@ -25,3 +25,12 @@ The log of my #100DaysOfCode challenge. Started on [July 29, Thursday, 2021].
 - Model validation learned and put into practice.
 
 **Thoughts**: Today it was hard but managed to spend learning some useful basics of ML.
+
+### R1D3
+### July 31, 2021
+
+**Today's Progress**: 
+
+Finished 75% of Basic HTML and HTML5 course in Responsive web design certification course in freeCodeCamp.
+
+**Thoughts**: That was a bit easy to learn but I think these basics are essential for me to build momentum.
