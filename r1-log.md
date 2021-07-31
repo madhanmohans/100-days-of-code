@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [July 29, Thursday, 2021].
 
 ## Log
 
-### R1D1 
+### R1D0
 ### July 29, 2021
 
 **Today's Progress**:
@@ -15,7 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [July 29, Thursday, 2021].
 
 **Thoughts:** Preplanned and got a clear understanding for this challenge.
 
-### R1D2
+### R1D1
 ### July 30, 2021
 
 **Today's Progress**: 
@@ -26,7 +26,7 @@ The log of my #100DaysOfCode challenge. Started on [July 29, Thursday, 2021].
 
 **Thoughts**: Today it was hard but managed to spend learning some useful basics of ML.
 
-### R1D3
+### R1D2
 ### July 31, 2021
 
 **Today's Progress**: 
