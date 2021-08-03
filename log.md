@@ -26,3 +26,9 @@
 
 
 **Thoughts**: That was a bit easy to learn but I think these basics are essential for me to build momentum.
+
+### Day 3: August 3, 2021
+
+**Today's Progress:** 
+
+Finished 100% of Basic HTML and HTML5 course in Responsive web design certification course in freeCodeCamp.
