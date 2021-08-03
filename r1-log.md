@@ -34,3 +34,11 @@ The log of my #100DaysOfCode challenge. Started on [July 29, Thursday, 2021].
 Finished 75% of Basic HTML and HTML5 course in Responsive web design certification course in freeCodeCamp.
 
 **Thoughts**: That was a bit easy to learn but I think these basics are essential for me to build momentum.
+
+### R1D3
+### August 3, 2021
+
+**Today's Progress:** 
+
+Finished 100% of Basic HTML and HTML5 course in Responsive web design certification course in freeCodeCamp.
+
