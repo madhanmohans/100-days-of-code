@@ -32,3 +32,13 @@
 **Today's Progress:** 
 
 Finished 100% of Basic HTML and HTML5 course in Responsive web design certification course in freeCodeCamp.
+
+### Day 4: August 5, 2021
+
+### Today's Progress: 
+
+Read a medium blogpost on ways to create a dictionary in python and implemented it.
+
+https://medium.com/techtofreedom/3-ways-to-create-a-dictionary-in-python-34b394bc0892
+
+**Thoughts**: Found it useful :)
