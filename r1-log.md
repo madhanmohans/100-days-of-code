@@ -53,3 +53,10 @@ https://medium.com/techtofreedom/3-ways-to-create-a-dictionary-in-python-34b394b
 
 **Thoughts**: Found it useful :)
 
+## R1D5
+### August 8, 2021
+
+**Today's Progress:**
+
+Completed 2 challenges in 10DaysofStatistics tutorial on HackerRank website.
+
