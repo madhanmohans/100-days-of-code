@@ -42,3 +42,10 @@ Read a medium blogpost on ways to create a dictionary in python and implemented 
 https://medium.com/techtofreedom/3-ways-to-create-a-dictionary-in-python-34b394bc0892
 
 **Thoughts**: Found it useful :)
+
+### Day 5: August 8, 2021
+
+**Today's Progress: 
+
+Completed 2 challenges in 10DaysofStatistics tutorial on HackerRank website.
+
