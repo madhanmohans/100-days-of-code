@@ -49,3 +49,20 @@ https://medium.com/techtofreedom/3-ways-to-create-a-dictionary-in-python-34b394b
 
 Completed 2 challenges in 10DaysofStatistics tutorial on HackerRank website.
 
+### Day 6: August 10, 2021
+
+**Today's Progress:**
+
+Understood and took care of overfitting and underfitting in decision tree model using maxLeafNode which has the least MAE. 
+
+### Day 7: August 11, 2021
+
+**Today's Progress:**
+
+Tried to create a Twitter bot to like and retweet tweets having the specific word/phrase. Got stuck in an error. Will post a query in some forums to sort it out.
+
+### Day 8: August 12, 2021
+
+**Today's Progress:**
+
+Got an overview of #Flutter 
